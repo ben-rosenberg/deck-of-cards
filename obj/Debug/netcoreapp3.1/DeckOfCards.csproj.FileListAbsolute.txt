@@ -1,0 +1,13 @@
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.genruntimeconfig.cache
